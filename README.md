@@ -7,7 +7,9 @@ in only those with the proper paperwork, rejecting those without all proper form
 
 There are a total of 7 countries: Arstotzka, Antegria, Impor, Kolechia, Obristan, Republia, and United Federation. 
 ### Rules
-You have to make an admission decision in according of [сonditions for passing inspection](https://github.com/Sherrbethead/Papers-please/new/master?readme=1#conditions-for-passing-inspection) (default decision is yes). After 3 mismatching with conditions, you will be fired (it means game over). Also, after the first game day, you will be asked to take a rest and quit from the game (default answer is no).
+You have to make an admission decision in according of [сonditions for passing inspection](https://github.com/Sherrbethead/Papers-please/new/master?readme=1#conditions-for-passing-inspection) (default decision is yes). After 3 mismatching with conditions, you will be fired (it means game over). 
+
+Also, after the first game day, you will be asked to take a rest and quit from the game (default answer is no).
 ### Bulletin receiving 
 Each morning you are issued an official bulletin from the Ministry of Admission. This bulletin will provide regulations, procedures and the name of a wanted criminal. It may include one or more of the following:
 * permanent:
