@@ -1,13 +1,13 @@
 ## Papers, Please
 The concept of this project is derived from the video game, but it is not meant to be a direct representation.
 
-Papers, Please is an indie video game where the player takes on a the role of a border crossing immigration officer in the fictional 
+Papers, Please is an indie video game where the player takes on the role of a border crossing immigration officer in the fictional 
 dystopian Eastern Bloc-like country of Arstotzka. As the officer, the player must review each immigrant and returning citizen's passports and other supporting paperwork against a list of ever-increasing rules using a number of tools and guides, allowing 
 in only those with the proper paperwork, rejecting those without all proper forms, and at times detaining those with falsified information. 
 
 There are a total of 7 countries: Arstotzka, Antegria, Impor, Kolechia, Obristan, Republia, and United Federation. 
 ### Rules
-You have to make an admission decision in according of [сonditions for passing inspection](https://github.com/Sherrbethead/Papers-please/new/master?readme=1#conditions-for-passing-inspection) (default decision is yes). After 3 mismatching with conditions, you will be fired (it means game over). 
+You have to make an admission decision in according of [сonditions for passing inspection](https://github.com/Sherrbethead/Papers-please/new/master?readme=1#conditions-for-passing-inspection) (default decision is yes). After third mismatching you will be fired (it means game over). 
 
 Also, after the first game day, you will be asked to take a rest and quit from the game (default answer is no).
 ### Bulletin receiving 
